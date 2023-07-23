@@ -321,6 +321,15 @@ h3 {
   margin: 10px 0 0 0;
 }
 
+/* STEP3始まり */
+
+#cases {
+  margin: 40px 0;
+  width: 100%;
+}
+
+/* STEP3終わり */
+
 /* 会社概要 */
 #company {
   margin: 80px auto 80px auto;
