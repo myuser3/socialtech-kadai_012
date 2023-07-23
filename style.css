@@ -341,7 +341,7 @@ li {
 .case-card {
   background: #FFFFFF;
   min-height: 400px;
-  box-shadow: 10px 10px 16px 0;/* 影をつける */
+  box-shadow: 4px 4px 4px 0;/* 影をつける */
 }
 
 .case-img {
