@@ -328,6 +328,39 @@ h3 {
   width: 100%;
 }
 
+ul {
+  display: flex;
+  list-style: none;/* バレット表記を消していない */
+}
+
+li {
+  width: 33%;
+  margin: 20px;
+}
+
+.case-card {
+  background: #FFFFFF;
+  min-height: 400px;
+  box-shadow: 10px 10px 16px 0;/* 影をつける */
+}
+
+.case-img {
+  width: 100%;
+} 
+
+.case-info {
+  padding: 10px 20px;
+}
+
+.case-name {
+  color: #2710d5;
+  font-size: 19px;
+}
+
+.case-content {
+  font-size: 14px;
+}
+
 /* STEP3終わり */
 
 /* 会社概要 */
